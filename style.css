@@ -78,6 +78,6 @@ footer p {
 
 .footercell {
     padding: 5px 0;
-    background-color: rgb(115, 180, 255, .3);
+    background-color: rgba(115, 180, 255, .3);
     color: white;
 }
